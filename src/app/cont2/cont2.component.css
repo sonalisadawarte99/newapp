@@ -1,0 +1,13 @@
+#flash {
+    width: 273px;
+}
+.imgs{
+    background-image: url('/assets/backimage.png') ;
+}
+#cont3 {
+    width: 641px;
+    height: 351px;
+    left: 734px;
+    top: 1019px;
+
+}

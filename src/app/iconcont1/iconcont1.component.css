@@ -1,0 +1,9 @@
+.icon-container {
+    overflow-x: auto;
+    white-space: nowrap;
+    scrollbar-width: thin; 
+    scrollbar-color: rgb(249, 216, 216) transparent;
+}
+.icon-container::-webkit-scrollbar {
+    height: 0px; 
+}
